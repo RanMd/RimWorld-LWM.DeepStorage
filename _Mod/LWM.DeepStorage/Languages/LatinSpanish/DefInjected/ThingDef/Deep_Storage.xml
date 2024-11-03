@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LWM_Safe.label>Caja fuerte pequeña</LWM_Safe.label>
+  <LWM_Safe.description>Una caja segura y cerrada con llave para almacenar objetos de valor de forma segura contra el robo y/o los daños causados por el fuego. \n\nNota: la protección contra el fuego aún no está implementada.</LWM_Safe.description>
+
+  <!-- Principalmente copiado de estante -->
+
+  <LWM_DeepStorage_Blueprint.label>LWM_DeepStorage (plano)</LWM_DeepStorage_Blueprint.label>
+  <LWM_DeepStorage_Blueprint_Install.label>LWM_DeepStorage (instalación)</LWM_DeepStorage_Blueprint_Install.label>
+  <LWM_DeepStorage_Frame.label>LWM_DeepStorage (construcción)</LWM_DeepStorage_Frame.label>
+  <LWM_DeepStorage_Frame.description>LWM_DeepStorage</LWM_DeepStorage_Frame.description>
+
+  <!-- Como una primera unidad de almacenamiento profundo -->
+
+  <LWM_BigShelf.label>Estante grande</LWM_BigShelf.label>
+  <LWM_BigShelf.description>Soporte de almacenamiento grande para una variedad de artículos, desde proyectiles de artillería hasta obras de arte, manos biónicas hasta ladrillos, sillas hasta cadáveres. \n\nLos artículos almacenados no se deteriorarán incluso si el estante se coloca en el exterior.</LWM_BigShelf.description>
+  <LWM_BigShelf_Blueprint.label>Estante grande (plano)</LWM_BigShelf_Blueprint.label>
+  <LWM_BigShelf_Blueprint_Install.label>Estante grande (instalación)</LWM_BigShelf_Blueprint_Install.label>
+  <LWM_BigShelf_Frame.label>Estante grande (construcción)</LWM_BigShelf_Frame.label>
+  <LWM_BigShelf_Frame.description>Soporte de almacenamiento grande para una variedad de artículos, desde proyectiles de artillería hasta obras de arte, manos biónicas hasta ladrillos, sillas hasta cadáveres. \n\nLos artículos almacenados no se deteriorarán incluso si el estante se coloca en el exterior.</LWM_BigShelf_Frame.description>
+
+  <LWM_VeryBigShelf.label>Estante muy grande</LWM_VeryBigShelf.label>
+  <LWM_VeryBigShelf.description>Altas estanterías cubiertas para almacenar diversos artículos, desde caracolas hasta obras de arte, brazos biónicos hasta ladrillos de piedra, sillas hasta cadáveres. \n\nLos colonos deberán subir y bajar la escalera para almacenar objetos. Aunque hay mucho espacio para almacenar, si se colocan muchos objetos, puede llevar tiempo recuperarlos. Los artículos almacenados aquí no se deteriorarán aunque se coloque al aire libre.</LWM_VeryBigShelf.description>
+
+  <LWM_Food_Basket.label>Canasta de alimentos</LWM_Food_Basket.label>
+  <LWM_Food_Basket.description>Canasta para almacenar alimentos crudos y materiales vegetales.</LWM_Food_Basket.description>
+  <LWM_Food_Basket_Blueprint.label>Canasta de alimentos (plano)</LWM_Food_Basket_Blueprint.label>
+  <LWM_Food_Basket_Blueprint_Install.label>Canasta de alimentos (instalación)</LWM_Food_Basket_Blueprint_Install.label>
+  <LWM_Food_Basket_Frame.label>Canasta de alimentos (construcción)</LWM_Food_Basket_Frame.label>
+  <LWM_Food_Basket_Frame.description>Canasta para almacenar alimentos crudos y materiales vegetales.</LWM_Food_Basket_Frame.description>
+
+  <LWM_Hayloft.label>Almacén de heno</LWM_Hayloft.label>
+  <LWM_Hayloft.description>El edificio se puede utilizar para almacenar heno y otros materiales vegetales en un suelo húmedo.</LWM_Hayloft.description>
+
+  <LWM_FabricHamper.label>Canasta de tela</LWM_FabricHamper.label>
+  <LWM_FabricHamper.description>Un conjunto de canastas de tela con armazón de hierro. Las bolsas grandes pueden almacenar fácilmente una variedad de artículos. \n\nSi realmente deseas almacenar tela en la bolsa, consulta los ajustes del módulo.</LWM_FabricHamper.description>
+
+  <LWM_Medicine_Cabinet.label>Botiquín</LWM_Medicine_Cabinet.label>
+  <LWM_Medicine_Cabinet.description>Botiquín con estantes para almacenar medicinas. Mantén a los niños alejados.</LWM_Medicine_Cabinet.description>
+  <LWM_Medicine_Cabinet_Blueprint.label>Botiquín (plano)</LWM_Medicine_Cabinet_Blueprint.label>
+  <LWM_Medicine_Cabinet_Blueprint_Install.label>Botiquín (instalación)</LWM_Medicine_Cabinet_Blueprint_Install.label>
+  <LWM_Medicine_Cabinet_Frame.label>Botiquín (construcción)</LWM_Medicine_Cabinet_Frame.label>
+  <LWM_Medicine_Cabinet_Frame.description>Botiquín con estantes para almacenar medicinas. Mantén a los niños alejados.</LWM_Medicine_Cabinet_Frame.description>
+
+  <LWM_DeepStorage_Skip.label>Contenedor pequeño</LWM_DeepStorage_Skip.label>
+  <LWM_DeepStorage_Skip.description>Contenedor de metal. No es completamente resistente a la intemperie, los objetos pueden deteriorarse en el exterior. \n\nNota: si se necesita el acero más tarde, llevará tiempo encontrarlo en el almacén.</LWM_DeepStorage_Skip.description>
+  <LWM_DeepStorage_Skip_Blueprint.label>Contenedor pequeño (plano)</LWM_DeepStorage_Skip_Blueprint.label>
+  <LWM_DeepStorage_Skip_Blueprint_Install.label>Contenedor pequeño (instalación)</LWM_DeepStorage_Skip_Blueprint_Install.label>
+  <LWM_DeepStorage_Skip_Frame.label>Contenedor pequeño (construcción)</LWM_DeepStorage_Skip_Frame.label>
+  <LWM_DeepStorage_Skip_Frame.description>Contenedor de metal. No es completamente resistente a la intemperie, los objetos pueden deteriorarse en el exterior. \n\nNota: si se necesita el acero más tarde, llevará tiempo encontrarlo en el almacén.</LWM_DeepStorage_Skip_Frame.description>
+
+  <LWM_Pallet.label>Palé</LWM_Pallet.label>
+  <LWM_Pallet.description>Palé plano para almacenar cosas. No protege contra las inclemencias del tiempo.</LWM_Pallet.description>
+  <LWM_Pallet_Blueprint.label>Palé (plano)</LWM_Pallet_Blueprint.label>
+  <LWM_Pallet_Blueprint_Install.label>Palé (instalación)</LWM_Pallet_Blueprint_Install.label>
+  <LWM_Pallet_Frame.label>Palé (construcción)</LWM_Pallet_Frame.label>
+  <LWM_Pallet_Frame.description>Palé plano para almacenar cosas. No protege contra las inclemencias del tiempo.</LWM_Pallet_Frame.description>
+
+  <LWM_Pallet_Covered.label>Palé cubierto</LWM_Pallet_Covered.label>
+  <LWM_Pallet_Covered.description>Palé plano para almacenar cosas. Al envolver los artículos en una lona gruesa, se mantienen a salvo de las inclemencias del tiempo. Puedes almacenar más artículos aquí ya que están envueltos en la lona.</LWM_Pallet_Covered.description>
+  <LWM_Pallet_Covered_Blueprint.label>Palé cubierto (plano)</LWM_Pallet_Covered_Blueprint.label>
+  <LWM_Pallet_Covered_Blueprint_Install.label>Palé cubierto (instalación)</LWM_Pallet_Covered_Blueprint_Install.label>
+  <LWM_Pallet_Covered_Frame.label>Palé cubierto (construcción)</LWM_Pallet_Covered_Frame.label>
+  <LWM_Pallet_Covered_Frame.description>Palé plano para almacenar cosas. Al envolver los artículos en una lona gruesa, se mantienen a salvo de las inclemencias del tiempo. Puedes almacenar más artículos aquí ya que están envueltos en la lona.</LWM_Pallet_Covered_Frame.description>
+
+  <LWM_Clothing_Rack.label>Perchero</LWM_Clothing_Rack.label>
+  <LWM_Clothing_Rack.description>Estante cubierto para almacenar ropa con fácil acceso.</LWM_Clothing_Rack.description>
+  <LWM_Clothing_Rack_Blueprint.label>Perchero (plano)</LWM_Clothing_Rack_Blueprint.label>
+  <LWM_Clothing_Rack_Blueprint_Install.label>Perchero (instalación)</LWM_Clothing_Rack_Blueprint_Install.label>
+  <LWM_Clothing_Rack_Frame.label>Perchero (construcción)</LWM_Clothing_Rack_Frame.label>
+  <LWM_Clothing_Rack_Frame.description>Estante cubierto para almacenar ropa con fácil acceso.</LWM_Clothing_Rack_Frame.description>
+
+  <LWM_MealRack.label>Estante de comidas</LWM_MealRack.label>
+  <LWM_MealRack.description>Un gran estante para almacenar comidas.</LWM_MealRack.description>
+  <LWM_MealRack_Blueprint.label>Estante de comidas (plano)</LWM_MealRack_Blueprint.label>
+  <LWM_MealRack_Blueprint_Install.label>Estante de comidas (instalación)</LWM_MealRack_Blueprint_Install.label>
+  <LWM_MealRack_Frame.label>Estante de comidas (construcción)</LWM_MealRack_Frame.label>
+  <LWM_MealRack_Frame.description>Este es un gran soporte de almacenamiento para las comidas.</LWM_MealRack_Frame.description>
+
+  <!-- Creaciones puramente LWM -->
+
+  <LWM_Meat_Hook.label>Ganchos para carne</LWM_Meat_Hook.label>
+  <LWM_Meat_Hook.description>Estructura metálica alta con varios ganchos suspendidos de cadenas. Una simple toma permite levantar varias carcazas colgadas en el aire. Una buena manera de almacenar las carcazas de los animales que has cazado antes de cortar y comer su carne.</LWM_Meat_Hook.description>
+  <LWM_Meat_Hook_Blueprint.label>Ganchos para carne (plano)</LWM_Meat_Hook_Blueprint.label>
+  <LWM_Meat_Hook_Blueprint_Install.label>Ganchos para carne (instalación)</LWM_Meat_Hook_Blueprint_Install.label>
+  <LWM_Meat_Hook_Frame.label>Ganchos para carne (construcción)</LWM_Meat_Hook_Frame.label>
+  <LWM_Meat_Hook_Frame.description>Estructura metálica alta con varios ganchos suspendidos de cadenas. Una simple toma permite levantar varias carcazas colgadas en el aire. Una buena manera de almacenar las carcazas de los animales que has cazado antes de cortar y comer su carne.</LWM_Meat_Hook_Frame.description>
+</LanguageData>

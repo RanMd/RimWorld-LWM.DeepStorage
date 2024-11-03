@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Settings -->
+<LanguageData>
+  <LWMDSignoredDueTo>Este parámetro se ignora debido al mod {0}</LWMDSignoredDueTo>
+
+  <!--Who can haul TO storage-->
+  <LWMDShaulToStorageExplanation>¿Quién puede usar el almacenamiento?:\nPor defecto, solo los humanos (o los extraterrestres similares a humanos) tienen la inteligencia necesaria para organizar cosas: apilar cuidadosamente, organizar estantes, manipular pestillos, etc. \n TODOS pueden retirar cosas del almacenamiento.</LWMDShaulToStorageExplanation>
+  <LWMDSrobotsCanUse>¿Pueden los robots transportar al almacenamiento profundo? (algunos robots compatibles)</LWMDSrobotsCanUse>
+  <LWMDSrobotsCanUseDesc>Permite a los robots moverse al almacenamiento profundo. Los robots de "Misc. Robots" son compatibles; soporte para Project RimFactory - Drones en camino.</LWMDSrobotsCanUseDesc>
+  <LWM_DS_IntTitle>Inteligencia mínima requerida para transportar al almacenamiento profundo</LWM_DS_IntTitle>
+  <LWM_DS_IntDesc>Esta opción puede permitir que sus animales/robots/cualquier cosa sea transportada al almacenamiento profundo.\nLa mayoría de las razas alienígenas tienen "similar a humano" o mejor. La mayoría de los animales son "animales". Los mecanoides vanilla son "usuarios de herramientas". ¿Robots de varios mods? Su conjetura es tan buena como la mía, pero pruebe primero con usuarios de herramientas, luego quizá con animales.\nNote que TODOS pueden retirar cosas del almacenamiento profundo.</LWM_DS_IntDesc>
+  <LWM_DS_Int_Animal>Animal (Animales y algunos robots de mod)</LWM_DS_Int_Animal>
+  <LWM_DS_Int_ToolUser>Usuario de herramientas (mecanoides y algunos robots de mod)</LWM_DS_Int_ToolUser>
+  <LWM_DS_Int_Humanlike>Humano (Humanos, la mayoría de alienígenas de mod, por defecto) (aprobación de LWM)</LWM_DS_Int_Humanlike>
+
+  <!--How long does storing take?-->
+  <LWMDSstoringDelaySettings>Configuración del tiempo de almacenamiento</LWMDSstoringDelaySettings>
+  <LWMDSstoringDelayExplanation>Por defecto, poner cosas en el almacenamiento profundo toma tiempo (organización). El tiempo requerido puede ser un cálculo complicado, a veces incluyendo el número de tipos y la cantidad de objetos almacenados. El uso de ciertos mods interfiere con este cálculo.</LWMDSstoringDelayExplanation>
+  <LWMDSstoringTakesTimeLabel>Si realmente desea DESACTIVAR el tiempo de almacenamiento, desmarque esta casilla.</LWMDSstoringTakesTimeLabel>
+  <LWMDSstoringTakesTimeDesc>Desactivarlo no es la forma en que LWM juega. ¡Pero bueno, es tu juego!</LWMDSstoringTakesTimeDesc>
+  <LWMDSstoringGlobalScale>Tiempo de almacenamiento global: {0}% \n Si desea ajustar el tiempo que les toma a las unidades almacenar objetos (quizá piense que toma demasiado tiempo), puede ajustar esta configuración y se aplicará a todas las unidades de almacenamiento.</LWMDSstoringGlobalScale>
+  <LWMDSstoringTimeConsidersStackSize>¿El tiempo de almacenamiento toma en cuenta el tamaño de la pila? (¿Stack XXL? ¿Ogre Stack?)</LWMDSstoringTimeConsidersStackSize>
+  <LWMDSstoringTimeConsidersStackSizeDesc>Si esta opción está seleccionada (por defecto), almacenar 75 objetos puede tomar más tiempo que almacenar 3. Esto afecta principalmente los saltos. Probablemente querrá desactivar esta opción si utiliza un mod que incrementa significativamente el tamaño de la pila.</LWMDSstoringTimeConsidersStackSizeDesc>
+
+  <LWM_DS_defaultStoragePriority>El almacenamiento profundo usa por defecto la prioridad de almacenamiento:</LWM_DS_defaultStoragePriority>
+
+  <LWM_DS_userInterface>Interfaz de usuario</LWM_DS_userInterface>
+  <LWM_DS_useEjectButton>Mostrar el botón "Expulsar" (Depositar)</LWM_DS_useEjectButton>
+  <LWM_DS_useEjectButtonDesc>Muestra el botón Expulsar en la pestaña de Contenido. La modificación de esta configuración toma efecto inmediatamente.</LWM_DS_useEjectButtonDesc>
+  <LWM_DS_useDSRightClick>Usar clic derecho personalizado de Almacenamiento Profundo</LWM_DS_useDSRightClick>
+  <LWM_DS_useDSRightClickDesc>La interfaz personalizada de clic derecho de Almacenamiento Profundo DEBERÍA funcionar y debería facilitar su uso, especialmente en armarios de armas con mods como Dual Wielding. Desactive esta opción para usar la lógica de Vanilla en caso de fallo, pero puede hacer que ciertas tareas sean más difíciles (por ejemplo, cargar caravanas). Nota: desactivar esta opción puede romper ciertos mecanismos del juego.\n\nRequiere reinicio para hacer efecto.</LWM_DS_useDSRightClickDesc>
+  <!-- Architect menu settings -->
+  <LWM_DS_Storage_ArchitectMenuSettings>Ubicación en el menú de Arquitecto:</LWM_DS_Storage_ArchitectMenuSettings>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>¿Mostrar siempre la categoría de Almacenamiento?</LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>La ubicación por defecto de todas las unidades de almacenamiento profundo es en la categoría "Almacenamiento" del menú Arquitecto. Si la modifica, por defecto, la categoría de Almacenamiento desaparece, y tratamos de limpiar todas las demás categorías de "Almacenamiento" de otros mods. Marque esta opción si desea que esté siempre presente, incluso si no hay unidades de almacenamiento profundo.</LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>
+  <LWM_DS_Storage_ArchitectMenuMoveALL>¿Mover (casi) TODAS las unidades de almacenamiento aquí?</LWM_DS_Storage_ArchitectMenuMoveALL>
+  <LWM_DS_Storage_ArchitectMenuMoveALLDesc>Marque esta opción para mover elementos como estantes vanilla o unidades de almacenamiento de otros mods a "Almacenamiento" también. Los edificios de almacenamiento de producción (como tolvas) no se moverán. REQUIERE REINICIO PARA DESACTIVARSE COMPLETAMENTE. Si desmarca esta opción, los elementos terminarán en "Muebles" hasta que reinicie.</LWM_DS_Storage_ArchitectMenuMoveALLDesc>
+  <!-- More settings -->
+
+  <LWMDSoverCapacityCheck>Verificar si el almacenamiento está sobrecargado</LWMDSoverCapacityCheck>
+  <LWMDSoverCapacityCheckDesc>Si más de un objeto termina en una ranura de almacenamiento, los colonos deben saberlo para limpiarlo. La desactivación de esta opción evita eso. \n\nDesactive esta opción para permitir que funcionen otros mods de almacenamiento:\nRimFactory</LWMDSoverCapacityCheckDesc>
+  <!-- Per DSU Settings -->
+  <LWMDSperDSUSettings>EXPERIMENTAL: Modificar configuraciones de almacenamiento por tipo de unidad: Atención</LWMDSperDSUSettings>
+  <LWMDSperDSUturnOn>ACTIVAR CONFIGURACIONES DE EDIFICIO MODIFICADAS POR USUARIO:</LWMDSperDSUturnOn>
+
+  <LWMDSperDSUturnOnDesc>Esto le permite modificar las propiedades de cada edificio de almacenamiento profundo. ¡No rompa nada, ¿ok?! DESACTIVAR ESTO RESTABLECE TODAS LAS CONFIGURACIONES A VALORES PREDETERMINADOS.</LWMDSperDSUturnOnDesc>
+  <LWMDSperDSUWarning>Nota: no se guardará ninguna configuración a menos que active esta función arriba!</LWMDSperDSUWarning>
+  <LWMDSpDSUlabel>Etiqueta</LWMDSpDSUlabel>
+  <LWMDSpDSUshowContents>Mostrar contenido de este tipo de edificio</LWMDSpDSUshowContents>
+  <LWMDSpDSUoverlay>¿Qué tipo de superposición de conteo usar (números blancos pequeños)?</LWMDSpDSUoverlay>
+  <LWMDSpDSUstoragePriority>Prioridad de almacenamiento predeterminada para este edificio</LWMDSpDSUstoragePriority>
+  <LWMDSpDSUchangeFilterQ>¿Modificar objetos permitidos en este edificio?</LWMDSpDSUchangeFilterQ>
+  <LWMDSpDSUchangeFilterQDesc>Si NO está utilizando una lista personalizada de objetos aquí, debe desmarcar esta casilla.</LWMDSpDSUchangeFilterQDesc>
+  <LWM_DS_Default>(predeterminado: {0})</LWM_DS_Default>
+  <LWM.ResetAllToDefault>Restablecer TODO a valores predeterminados</LWM.ResetAllToDefault>
+</LanguageData>
